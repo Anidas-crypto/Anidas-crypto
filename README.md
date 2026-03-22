@@ -75,7 +75,6 @@ I currently do not have any formal work experience, but I am actively looking fo
 
 ---
 
-## 🐍 Contribution Snake
 
 ## 🐍 Contribution Snake
 
