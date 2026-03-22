@@ -77,6 +77,8 @@ I currently do not have any formal work experience, but I am actively looking fo
 
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
