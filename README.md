@@ -53,7 +53,7 @@ I currently do not have any formal work experience, but I am actively looking fo
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <img src="https://cdn.simpleicons.org/kalilinux" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/gnubash" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/johntheripper.svg" width="40" height="40"/>
+<img src="https://www.kali.org/tools/john/images/john-logo.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashcat.svg" width="40" height="40"/>
 </p>
 
