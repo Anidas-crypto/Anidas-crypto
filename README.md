@@ -70,7 +70,6 @@ I currently do not have any formal work experience, but I am actively looking fo
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anidas-crypto&theme=dark&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anidas-crypto&show_icons=true&theme=dark" width="45%"/>
 </div>
 
 ---
