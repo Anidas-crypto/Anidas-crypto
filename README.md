@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Anirban%20Das&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Learner%20|%20Developer%20|%20Gamer&descAlignY=60">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Anirban%20Das&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Learner%20|%20Developer%20|%20Ethical%20Hacker"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=I'm+a+Cybersecurity+Learner;I'm+a+Gamer;I'm+a+Software+Developer;I'm+into+Ethical+Hacking">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=I'm+a+Cybersecurity+Learner;I'm+a+Gamer;I'm+a+Software+Developer"/>
 </div>
 
 ---
@@ -36,25 +36,24 @@ I currently do not have any formal work experience, but I am actively looking fo
 
 ## 🌐 Academic & Professional Network
 
-<p align="left">
-<a href="https://www.linkedin.com/in/anirban05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anirban06/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Anirbandas1038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/Anirbandas1038" height="30" width="40" /></a>
-<a href="https://www.instagram.com/Anirbandas1038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/#" height="30" width="40" /></a>
-
-</p>
+<div align="center">
+<a href="https://www.linkedin.com/in/anirban05/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50"/></a> &nbsp; &nbsp;
+<a href="https://www.facebook.com/Anirbandas1038" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="50" height="50"/></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/Anirbandas1038" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="50"/></a>
+</div>
 
 ---
 
 ## 🛠️ Tools & Platforms
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/git" width="40" height="40"/>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<img src="https://cdn.simpleicons.org/kalilinux" width="40" height="40"/>
-<img src="https://www.kali.org/tools/john/images/john-logo.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashcat.svg" width="40" height="40"/>
-</p>
+<div align="center">
+<img src="https://cdn.simpleicons.org/git" width="50" height="50" alt="Git"/> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> &nbsp; &nbsp;
+<img src="https://cdn.simpleicons.org/kalilinux" width="50" height="50" alt="Kali Linux"/> &nbsp; &nbsp;
+<img src="https://www.kali.org/tools/john/images/john-logo.svg" width="50" height="50" alt="John"/> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashcat.svg" width="50" height="50" alt="Hashcat"/>
+</div>
 
 ---
 
@@ -73,7 +72,6 @@ I currently do not have any formal work experience, but I am actively looking fo
 </div>
 
 ---
-
 
 ## 🐍 Contribution Snake
 
