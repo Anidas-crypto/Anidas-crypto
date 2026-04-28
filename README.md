@@ -69,6 +69,7 @@ I currently do not have any formal work experience, but I am actively looking fo
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anidas-crypto&theme=dark&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anidas-crypto&theme=default&show_icons=true&hide_border=true&count_private=true" alt="anidas-crypto's GitHub Stats" />
 </div>
 
 ---
