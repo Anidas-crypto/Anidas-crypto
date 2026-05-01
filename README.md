@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Anirban%20Das&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Learner%20%7C%20Developer%20%7C%20Ethical%20Hacker&descSize=18&descAlignY=55&textBg=false"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Anirban%20Das&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Learner%20|%20Developer%20|%20Ethical%20Hacker"/>
-</div>
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Anidas-crypto">
     <img src="https://komarev.com/ghpvc/?username=Anidas-crypto&label=Profile%20views&color=00FFFF&style=flat-square" alt="Anidas-crypto's profile views" />
