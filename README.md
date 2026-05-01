@@ -12,6 +12,18 @@
 
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
+
+---
+
+## <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" width="60"> Hello!
+
+I'm **Anirban Das**, a passionate learner focused on **Cybersecurity, Development, and Ethical Hacking**.  
+I enjoy exploring new technologies, improving my skills, and building my career step by step.
+
+---
+
+
+
 ## 📌 About Me
 - I'm Anirban Das, a passionate learner focused on Cybersecurity, Development, and Ethical Hacking.
 - I enjoy exploring new technologies, improving my skills, and building my career step by step.
