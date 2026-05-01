@@ -23,22 +23,26 @@ I enjoy exploring new technologies, improving my skills, and building my career 
 ---
 
 
+---
 
 ## 📌 About Me
-- I'm Anirban Das, a passionate learner focused on Cybersecurity, Development, and Ethical Hacking.
-- I enjoy exploring new technologies, improving my skills, and building my career step by step.
-- 🎓 Education
-- Madhyamik - Janai Training High School (2021)
-- Higher Secondary - Janai Training High School (2023)
-- BCA - The Calcutta Anglo Gujarati College
-- 💼 Work Experience
-- I currently do not have any formal work experience, but I am actively looking for opportunities and continuously improving my skills.
-- 🚀 Personal Interests
-- Learning New Programming Languages
-- Cybersecurity & Ethical Hacking
-- Exploring New OS & Technologies
-- Gaming & Game Designing
-- Reading Newspapers & Online News
+
+### 🎓 Education
+- Madhyamik - Janai Training High School (2021)  
+- Higher Secondary - Janai Training High School (2023)  
+- BCA - The Calcutta Anglo Gujarati College  
+
+### 💼 Work Experience
+I currently do not have any formal work experience, but I am actively looking for opportunities and continuously improving my skills.
+
+### 🚀 Personal Interests
+- Learning New Programming Languages  
+- Cybersecurity & Ethical Hacking  
+- Exploring New OS & Technologies  
+- Gaming & Game Designing  
+- Reading Newspapers & Online News  
+
+---
 
 
 ## 🧠 My Focus Areas
