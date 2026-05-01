@@ -45,6 +45,39 @@ I currently do not have any formal work experience, but I am actively looking fo
 ## 🧠 My Focus Areas
 - Web Developer
 - Open Source Contributor
+---
+
+
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/anirban05">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://anirbandas">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>
+  <a href="https://wa.me/917962538940">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>
+  <a href="mailto:work.anirbandas@zohomail.in">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+  <a href="https://anirban.kesug.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+
+  <a href="https://www.instagram.com/Anirbandas1038" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40"/>
+  </a>
+
+  <a href="https://www.facebook.com/Anirbandas1038" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40"/>
+  </a> &nbsp; &nbsp;
+
+</p>
+
+---
 
 
 ## 📊 GitHub Stats & Trophies
@@ -134,27 +167,7 @@ I currently do not have any formal work experience, but I am actively looking fo
 ![Top language](https://stats.pphat.top/languages?username=Anidas-crypto)
 <br/>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/anirban05">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://anirbandas">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>
-  <a href="https://wa.me/917962538940">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>
-  <a href="mailto:work.anirbandas@zohomail.in">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-  <a href="https://anirban.kesug.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
 
-  <a href="https://www.instagram.com/Anirbandas1038" target="blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/instagram.svg" alt="Instagram" width="40" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
