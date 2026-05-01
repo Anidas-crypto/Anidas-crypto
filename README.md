@@ -53,7 +53,7 @@ I currently do not have any formal work experience, but I am actively looking fo
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
   <a href="https://x.com/@Anirban83642331">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/x.svg" alt="Twitter" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
   </a>
   <a href="mailto:work.anirbandas@zohomail.in">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
