@@ -150,6 +150,7 @@ I currently do not have any formal work experience, but I am actively looking fo
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img src="https://cdn.simpleicons.org/kalilinux" width="50" />
+   <img src="https://nobaraproject.org/img/nobara-icon.png" width="60"  alt="Nobara"/>
 </p>
 
 <p align="center">
