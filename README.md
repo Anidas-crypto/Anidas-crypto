@@ -5,13 +5,9 @@
 </div>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Anidas-crypto">
-    <img src="https://komarev.com/ghpvc/?username=Anidas-crypto&label=Profile%20views&color=00FFFF&style=flat-square" alt="Anidas-crypto's profile views" />
+  <a href="https://github.com/Anidas-crypto">
+    <img src="https://komarev.com/ghpvc/?username=anidas-crypto&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" alt="Profile Views"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anidas-crypto&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
