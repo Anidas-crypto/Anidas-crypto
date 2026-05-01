@@ -107,25 +107,21 @@ I currently do not have any formal work experience, but I am actively looking fo
 
 <h3 align="center">Platforms</h3>
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/><br>Linux
-</td>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<td width="30"></td>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="50" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="50"/><br>Windows
-</td>
+  <img src="https://cdn.simpleicons.org/kalilinux" width="50" />
+</p>
 
-<td width="30"></td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/kalilinux" width="50"/><br>Kali Linux
-</td>
-</tr>
-</table>
+<p align="center">
+  Linux &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Windows &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Kali Linux
+</p>
 
 
 <p align="center">
