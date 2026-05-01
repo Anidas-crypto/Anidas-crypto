@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anidas-crypto&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 
