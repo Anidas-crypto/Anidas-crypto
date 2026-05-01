@@ -106,11 +106,13 @@ I currently do not have any formal work experience, but I am actively looking fo
 
 
 <h3 align="center">Platforms</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="50" height="50" alt="Windows"/> &nbsp; &nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux" width="50" height="50" alt="Kali Linux"/> &nbsp; &nbsp;
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="50" height="50"/>
 </p>
 
 
