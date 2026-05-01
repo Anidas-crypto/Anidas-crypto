@@ -101,6 +101,7 @@ I currently do not have any formal work experience, but I am actively looking fo
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashcat.svg" width="40" alt="Hashcat"/>
 
 </p>
 
