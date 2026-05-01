@@ -24,7 +24,7 @@ I enjoy exploring new technologies, improving my skills, and building my career 
 
 ## 📌 About Me
 
-### 🎓 Education
+### <img src="https://media.giphy.com/media/IhIDRwEVka6plLPC9z/giphy.gif" width="60"> Education
 - Madhyamik - Janai Training High School (2021)  
 - Higher Secondary - Janai Training High School (2023)  
 - BCA - The Calcutta Anglo Gujarati College  
