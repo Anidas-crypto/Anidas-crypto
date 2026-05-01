@@ -22,9 +22,6 @@ I enjoy exploring new technologies, improving my skills, and building my career 
 
 ---
 
-
----
-
 ## 📌 About Me
 
 ### 🎓 Education
