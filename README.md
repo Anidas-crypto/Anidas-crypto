@@ -151,6 +151,10 @@ I currently do not have any formal work experience, but I am actively looking fo
   <a href="https://anirban.kesug.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
+
+  <a href="https://www.instagram.com/Anirbandas1038" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40"/></a>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/instagram.svg" alt="Instagram" width="40" />
 </p>
 
 <picture>
