@@ -52,11 +52,8 @@ I currently do not have any formal work experience, but I am actively looking fo
   <a href="https://linkedin.com/in/anirban05">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://anirbandas">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>
-  <a href="https://wa.me/917962538940">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  <a href="https://x.com/@Anirban83642331">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/x.svg" alt="Twitter" width="40" />
   </a>
   <a href="mailto:work.anirbandas@zohomail.in">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
@@ -65,7 +62,7 @@ I currently do not have any formal work experience, but I am actively looking fo
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 
-  <a href="https://www.instagram.com/Anirbandas1038" target="blank">
+  <a href="https://www.instagram.com/anirbandas_x" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40"/>
   </a>
 
