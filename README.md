@@ -104,6 +104,16 @@ I currently do not have any formal work experience, but I am actively looking fo
 
 </p>
 
+
+<h3 align="center">Platforms</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="50" height="50" alt="Windows"/> &nbsp; &nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux" width="50" height="50" alt="Kali Linux"/> &nbsp; &nbsp;
+
+</p>
+
+
 <p align="center">
   <a href="https://github.com/Anidas-crypto">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anidas-crypto&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
