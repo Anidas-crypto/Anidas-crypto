@@ -47,8 +47,6 @@ I currently do not have any formal work experience, but I am actively looking fo
 - Open Source Contributor
 ---
 
-
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/anirban05">
@@ -168,16 +166,6 @@ I currently do not have any formal work experience, but I am actively looking fo
 ![Top language](https://stats.pphat.top/languages?username=Anidas-crypto)
 <br/>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -190,8 +178,6 @@ I currently do not have any formal work experience, but I am actively looking fo
       src="https://raw.githubusercontent.com/Anidas-crypto/Anidas-crypto/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-
 
 
 <div align="center">
