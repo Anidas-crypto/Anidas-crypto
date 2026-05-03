@@ -23,11 +23,16 @@ I enjoy exploring new technologies, improving my skills, and building my career 
 ---
 
 ## 📌 About Me
+<h3>
+  <img src="https://media.giphy.com/media/IhIDRwEVka6plLPC9z/giphy.gif" width="40" style="vertical-align: middle;">
+  Education
+</h3>
 
-### <img src="https://media.giphy.com/media/IhIDRwEVka6plLPC9z/giphy.gif" width="50" style="vertical-align: middle;"> Education
-- Madhyamik - Janai Training High School (2021)  
-- Higher Secondary - Janai Training High School (2023)  
-- BCA - The Calcutta Anglo Gujarati College  
+<ul>
+  <li>Madhyamik - Janai Training High School (2021)</li>
+  <li>Higher Secondary - Janai Training High School (2023)</li>
+  <li>BCA - The Calcutta Anglo Gujarati College</li>
+</ul>
 
 ### 💼 Work Experience
 I currently do not have any formal work experience, but I am actively looking for opportunities and continuously improving my skills.
