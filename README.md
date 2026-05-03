@@ -24,7 +24,7 @@ I enjoy exploring new technologies, improving my skills, and building my career 
 
 ## 📌 About Me
 <h3>
-  <img src="https://media.giphy.com/media/IhIDRwEVka6plLPC9z/giphy.gif" width="35" top="30">
+  <img src="https://media.giphy.com/media/IhIDRwEVka6plLPC9z/giphy.gif" width="35" top="60">
   Education
 </h3>
 
