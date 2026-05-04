@@ -62,7 +62,7 @@ I currently do not have any formal work experience, but I am actively looking fo
   
 
   <a href="https://x.com/Anirban83642331">
-    <img src="https://cdn.corenexis.com/files/c/1227917720.png" alt="X" width="40" />
+    <img src="https://cdn.corenexis.com/files/c/1832576720.png" alt="X" width="40" />
   </a>
 
   
