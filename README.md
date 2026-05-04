@@ -24,8 +24,7 @@ I enjoy exploring new technologies, improving my skills, and building my career 
 
 ## 📌 About Me
 <h3>
-  <img src="https://cdn.corenexis.com/files/c/3132282720.gif" width="35">
-  Education
+  🎓 Education
 </h3>
 
 <ul>
