@@ -53,7 +53,7 @@ I currently do not have any formal work experience, but I am actively looking fo
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/anirban05">
+  <a href="https://linkedin.com/in/anidas-crypto">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
   <a href="https://x.com/Anirban83642331">
@@ -66,11 +66,11 @@ I currently do not have any formal work experience, but I am actively looking fo
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 
-  <a href="https://www.instagram.com/anirbandas_x" target="blank">
+  <a href="https://www.instagram.com/anidas_crypto" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40"/>
   </a>
 
-  <a href="https://www.facebook.com/Anirbandas1038" target="blank">
+  <a href="https://www.facebook.com/anidas.crypto" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40"/>
   </a> &nbsp; &nbsp;
 
